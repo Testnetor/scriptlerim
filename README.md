@@ -1,6 +1,7 @@
 This repository contains my personal collection of scripts for managing crypto nodes, airdrop hunting, and infrastructure automation.
 
-✅ What’s inside:
+✅  What’s inside:
+
 Node installation scripts
 
 Snapshot backup & restore scripts
